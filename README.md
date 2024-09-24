@@ -1,7 +1,7 @@
 # Guanto Aptico - Conversione del Parlato in Vibrazioni
 
 ## Descrizione del progetto
-Questo progetto consiste nella creazione di un **guanto aptico** che converte il parlato umano in sequenze di vibrazioni. Utilizzando un **Raspberry Pi Zero 2W**, il sistema riceve input vocale tramite un microfono e traduce le parole in segnali tattili, attivando motori aptici in base alle lettere riconosciute.
+Questo progetto consiste nella creazione di un **guanto aptico** che converte il parlato umano in sequenze di vibrazioni. Utilizzando un **Raspberry Pi Zero 2W**, è controllato da un firmware leggero in python che agisce come controller software. Il sistema riceve input vocale tramite un microfono e traduce le parole in segnali tattili, attivando motori aptici in base alle lettere riconosciute.
 
 Il sistema è stato progettato per persone con disabilità sensoriali (sordi e ciechi) che possono percepire vibrazioni specifiche associate a ogni lettera dell'alfabeto italiano.
 
