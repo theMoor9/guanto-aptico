@@ -26,7 +26,7 @@ Il progetto è composto dai seguenti file principali:
 - **Python 3.7+**
 
 # Dipendenze
-Le dipendenze sono elencate nel file requirements.txt. 
+Le dipendenze sono elencate nel file [requirements.txt](./code/requirements.txt). 
 
 
 # Alcune possibili estensioni del progetto includono:
